@@ -1,0 +1,16 @@
+body {
+  background-color: #E1FFEE;
+  #https://colorhunt.co/palette/7fbcd2a5f1e9e1ffeeffeeaf
+}
+hr {
+  #border: none;
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: grey;
+  height: 0px;
+  #background-color: #7FBCD2;
+  width: 4%;
+}
+img {
+  border-radius: 8px;
+}
